@@ -1,0 +1,16 @@
+{
+    "Bot_Info": {
+        "token": "",
+        "prefix": "gg!"
+    },
+   "Embed_Defaults": {
+       "EmbedColour": "#ffff00"
+   },
+   "Giveaway_Options": {
+    "giveawayManagerID": "",
+    "giveawayRoleID": "",
+    "giveawayMention": true,
+    "showMention": true,
+    "hostedBy": true
+    }
+}
