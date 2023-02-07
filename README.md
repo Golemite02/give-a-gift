@@ -1,3 +1,3 @@
-**Juste un bot de merde**
+<h2>**Juste un bot de merde**</h2>
 
-*(je m'entrainais ducoup c pour ca que c'est mal codé)*
+*(Je m'entrainais du coup c'est pour ça que c'est mal codé et nul.)*
